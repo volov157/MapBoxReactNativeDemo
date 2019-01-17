@@ -6,7 +6,8 @@ ps:上网查了查，好像国内用RN的做Mapbox的公开资料很少啊，貌
 ######	开发平台macOS，目标平台：android；
  	
 没有安装homebrew的可以点击：[参考链接](https://www.jianshu.com/p/4e80b42823d5)
-本项目代码：稍后更新github地址
+
+本项目代码：https://github.com/volov157/MapBoxReactNativeDemo.git
  	
  1.  打开iTerm，执行：
  		`brew install node`
