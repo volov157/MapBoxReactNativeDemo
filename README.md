@@ -1,5 +1,5 @@
 ##	ReactNative环境搭建及MapBox for  ReactNative的简单使用
-博客地址https://blog.csdn.net/u011320682/article/details/86518024
+博客地址：https://blog.csdn.net/u011320682/article/details/86518024
 ###	本文以Mac为例，搭建ReactNative完整原生开发环境；
 ps:上网查了查，好像国内用RN的做Mapbox的公开资料很少啊，貌似领先了一个车位？滴 学生卡~
 #####	react native中文网：<https://reactnative.cn/docs/getting-started.html>
